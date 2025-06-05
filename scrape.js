@@ -1,10 +1,8 @@
-const { load } = require("cheerio");
+const { fromURL } = require("cheerio");
 const { writeFile } = require("fs");
 
 const scrapeAndTransform = async () => {
-  const res = await fetch("https://kirm.mk/?page_id=1694");
-  const html = await res.text();
-  const cheerio = load(html);
+  const cheerio = await fromURL("https://kirm.mk/?page_id=1694");
 
   // scraping
   const { scrapedRealEstatePostings } = cheerio.extract({
@@ -14,6 +12,7 @@ const scrapeAndTransform = async () => {
         value: {
           id: "p:first",
           posterName: "p:eq(3)",
+          estateType: ".wraper_oglas",
           location: "p:eq(5)",
           sizeAndStartingPrice: "p:eq(6)",
           date: "p:eq(7)",
@@ -27,19 +26,27 @@ const scrapeAndTransform = async () => {
     ],
   });
 
+  // a whole different scrape function because someone decided not to use html tags properly
+  const { separateScrapeForEstateType } = cheerio.extract({
+    separateScrapeForEstateType: [".wraper_oglas"],
+  });
+
   // transforming
-  const transformedRealEstatePostings = scrapedRealEstatePostings.map((posting) => ({
+  const transformedRealEstatePostings = scrapedRealEstatePostings.map((posting, index) => ({
     id: Number(posting.id.split(" ")[4]),
+    estateType: separateScrapeForEstateType[index].split("Тип на недвижност :")[1].split("Недвижноста")[0],
     posterName: `${posting.posterName.split(" ")[1].slice(1)} ${posting.posterName.split(" ")[2]}`,
-    location: posting.location.split(" ")[4],
+    location: posting.location.split(" ")[4].replace(/\n$/, ""),
     size: Number(posting.sizeAndStartingPrice.split(" ")[1].split("м")[0]),
-    startingPrice: Number(posting.sizeAndStartingPrice.split(" ")[7]),
+    startingPrice: Number(posting.sizeAndStartingPrice.split(" ")[7].replace(/,/g, "")),
     date: posting.date.split(":")[1],
     note: posting.note.split(":")[1].slice(1),
     moreInfoUrl: posting.moreInfo,
   }));
 
-  writeFile("scrapedData.txt", JSON.stringify(transformedRealEstatePostings, null, 2), function (err) {
+  console.log(transformedRealEstatePostings);
+
+  writeFile("scrapedData.json", JSON.stringify(transformedRealEstatePostings, null, 2), function (err) {
     if (err) {
       console.log(err);
     }
