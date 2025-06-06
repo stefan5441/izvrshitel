@@ -1,10 +1,11 @@
 export type Posting = {
-  date: string;
   id: number;
-  location: string;
-  moreInfoUrl: string;
-  note: string;
   posterName: string;
+  estateType: string;
+  date: string;
+  location: string;
   size: number;
   startingPrice: number;
+  note: string;
+  moreInfoUrl: string;
 };

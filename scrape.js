@@ -44,8 +44,6 @@ const scrapeAndTransform = async () => {
     moreInfoUrl: posting.moreInfo,
   }));
 
-  console.log(transformedRealEstatePostings);
-
   writeFile("scrapedData.json", JSON.stringify(transformedRealEstatePostings, null, 2), function (err) {
     if (err) {
       console.log(err);
