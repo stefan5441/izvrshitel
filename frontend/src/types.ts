@@ -1,7 +1,9 @@
+type Estate = "Куќа" | "Стан" | "Деловен простор" | "Гаража" | "Земјиште" | "Друго";
+
 export type Posting = {
   id: number;
   posterName: string;
-  estateType: string;
+  estateType: Estate;
   date: string;
   location: string;
   size: number;
