@@ -6,7 +6,7 @@ function App() {
   const realEstatePostings = scrapedData as Posting[];
 
   return (
-    <div>
+    <div className="mainContainer">
       {realEstatePostings.map((posting) => (
         <PostingCard key={posting.id} realEstatePostings={posting} />
       ))}
