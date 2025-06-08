@@ -101,7 +101,7 @@
   {
     "id": 12683,
     "estateType": "Деловен простор",
-    "posterName": "Павел Поп",
+    "posterName": "Павел Поп Иванов",
     "location": "Скопје",
     "size": 72,
     "startingPrice": 6513588,
@@ -211,7 +211,7 @@
   {
     "id": 12671,
     "estateType": "Куќа",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 70,
     "startingPrice": 0,
@@ -519,7 +519,7 @@
   {
     "id": 12643,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 73,
     "startingPrice": 0,
@@ -937,7 +937,7 @@
   {
     "id": 12603,
     "estateType": "Земјиште",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Струмица",
     "size": 1964,
     "startingPrice": 245500,
@@ -1179,7 +1179,7 @@
   {
     "id": 12576,
     "estateType": "Стан",
-    "posterName": "Валентина Спасова",
+    "posterName": "Валентина Спасова – Јованова",
     "location": "Штип",
     "size": 53,
     "startingPrice": 1076250,
@@ -1641,7 +1641,7 @@
   {
     "id": 12533,
     "estateType": "Стан",
-    "posterName": "Валентина Спасова",
+    "posterName": "Валентина Спасова – Јованова",
     "location": "Штип",
     "size": 53,
     "startingPrice": 1311912,
@@ -1718,7 +1718,7 @@
   {
     "id": 12524,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 66,
     "startingPrice": 0,
@@ -1872,7 +1872,7 @@
   {
     "id": 12506,
     "estateType": "Стан",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Струмица",
     "size": 66,
     "startingPrice": 3795933,
@@ -1883,7 +1883,7 @@
   {
     "id": 12505,
     "estateType": "Земјиште",
-    "posterName": "Фросина Петровиќ",
+    "posterName": "Фросина Петровиќ Стојмановска",
     "location": "Куманово",
     "size": 4878,
     "startingPrice": 700000,
@@ -2235,7 +2235,7 @@
   {
     "id": 12472,
     "estateType": "Земјиште",
-    "posterName": "Павел Поп",
+    "posterName": "Павел Поп Иванов",
     "location": "Скопје",
     "size": 859,
     "startingPrice": 31072378,
@@ -2411,7 +2411,7 @@
   {
     "id": 12456,
     "estateType": "Земјиште",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Радовиш",
     "size": 26910,
     "startingPrice": 16549658,
@@ -2543,7 +2543,7 @@
   {
     "id": 12443,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 66,
     "startingPrice": 0,
@@ -2631,7 +2631,7 @@
   {
     "id": 12432,
     "estateType": "Деловен простор",
-    "posterName": "Валентина Спасова",
+    "posterName": "Валентина Спасова – Јованова",
     "location": "Штип",
     "size": 27,
     "startingPrice": 1805246,
@@ -2642,7 +2642,7 @@
   {
     "id": 12431,
     "estateType": "Стан",
-    "posterName": "Валентина Спасова",
+    "posterName": "Валентина Спасова – Јованова",
     "location": "Штип",
     "size": 52,
     "startingPrice": 2444582,
@@ -2829,7 +2829,7 @@
   {
     "id": 12411,
     "estateType": "Земјиште",
-    "posterName": "Христина Темелкова",
+    "posterName": "Христина Темелкова Митев",
     "location": "Струмица",
     "size": 4209,
     "startingPrice": 168360,
@@ -2961,7 +2961,7 @@
   {
     "id": 12399,
     "estateType": "Деловен простор",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Прилеп",
     "size": 10,
     "startingPrice": 624461,
@@ -3478,7 +3478,7 @@
   {
     "id": 12348,
     "estateType": "Друго",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Прилеп",
     "size": 10,
     "startingPrice": 936645,
@@ -3786,7 +3786,7 @@
   {
     "id": 12317,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 34,
     "startingPrice": 0,
@@ -4292,7 +4292,7 @@
   {
     "id": 12263,
     "estateType": "Земјиште",
-    "posterName": "Фросина Петровиќ",
+    "posterName": "Фросина Петровиќ Стојмановска",
     "location": "Куманово",
     "size": 4878,
     "startingPrice": 700000,
@@ -4413,7 +4413,7 @@
   {
     "id": 12251,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 34,
     "startingPrice": 0,
@@ -5007,7 +5007,7 @@
   {
     "id": 12191,
     "estateType": "Земјиште",
-    "posterName": "Маријана Кацарска",
+    "posterName": "Маријана Кацарска Могилевска",
     "location": "Кочани",
     "size": 1889,
     "startingPrice": 103895,
@@ -5172,7 +5172,7 @@
   {
     "id": 12175,
     "estateType": "Стан",
-    "posterName": "Павел Поп",
+    "posterName": "Павел Поп Иванов",
     "location": "Скопје",
     "size": 58,
     "startingPrice": 3584626,
@@ -5546,7 +5546,7 @@
   {
     "id": 12140,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 78,
     "startingPrice": 0,
@@ -5942,7 +5942,7 @@
   {
     "id": 12103,
     "estateType": "Стан",
-    "posterName": "Павел Поп",
+    "posterName": "Павел Поп Иванов",
     "location": "Скопје",
     "size": 58,
     "startingPrice": 5376938,
@@ -6085,7 +6085,7 @@
   {
     "id": 12088,
     "estateType": "Земјиште",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Струмица",
     "size": 18495,
     "startingPrice": 369900,
@@ -6096,7 +6096,7 @@
   {
     "id": 12087,
     "estateType": "Деловен простор",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Радовиш",
     "size": 720,
     "startingPrice": 20324822,
@@ -6459,7 +6459,7 @@
   {
     "id": 12054,
     "estateType": "Друго",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 748,
     "startingPrice": 0,
@@ -6855,7 +6855,7 @@
   {
     "id": 12015,
     "estateType": "Земјиште",
-    "posterName": "Фросина Петровиќ",
+    "posterName": "Фросина Петровиќ Стојмановска",
     "location": "Куманово",
     "size": 4878,
     "startingPrice": 700000,
@@ -7064,7 +7064,7 @@
   {
     "id": 11995,
     "estateType": "Земјиште",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Струмица",
     "size": 2773,
     "startingPrice": 916650,
@@ -7108,7 +7108,7 @@
   {
     "id": 11991,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 33,
     "startingPrice": 0,
@@ -7350,7 +7350,7 @@
   {
     "id": 11966,
     "estateType": "Стан",
-    "posterName": "Фросина Петровиќ",
+    "posterName": "Фросина Петровиќ Стојмановска",
     "location": "Куманово",
     "size": 74,
     "startingPrice": 3317653,
@@ -7669,7 +7669,7 @@
   {
     "id": 11927,
     "estateType": "Земјиште",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Струмица",
     "size": 18495,
     "startingPrice": 369900,
@@ -7680,7 +7680,7 @@
   {
     "id": 11925,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 33,
     "startingPrice": 0,
@@ -7735,7 +7735,7 @@
   {
     "id": 11918,
     "estateType": "Земјиште",
-    "posterName": "Фросина Петровиќ",
+    "posterName": "Фросина Петровиќ Стојмановска",
     "location": "Куманово",
     "size": 4878,
     "startingPrice": 847370,
@@ -7900,7 +7900,7 @@
   {
     "id": 11902,
     "estateType": "Земјиште",
-    "posterName": "Павел Поп",
+    "posterName": "Павел Поп Иванов",
     "location": "Охрид",
     "size": 1057,
     "startingPrice": 3249415,
@@ -8285,7 +8285,7 @@
   {
     "id": 11863,
     "estateType": "Стан",
-    "posterName": "Фросина Петровиќ",
+    "posterName": "Фросина Петровиќ Стојмановска",
     "location": "Куманово",
     "size": 74,
     "startingPrice": 3317653,
@@ -8439,7 +8439,7 @@
   {
     "id": 11846,
     "estateType": "Земјиште",
-    "posterName": "Маја Гркова",
+    "posterName": "Маја Гркова Караколева",
     "location": "Велес",
     "size": 4556,
     "startingPrice": 0,
@@ -8505,7 +8505,7 @@
   {
     "id": 11839,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 47,
     "startingPrice": 0,
@@ -8615,7 +8615,7 @@
   {
     "id": 11828,
     "estateType": "Земјиште",
-    "posterName": "Павел Поп",
+    "posterName": "Павел Поп Иванов",
     "location": "Охрид",
     "size": 1057,
     "startingPrice": 3249415,
@@ -9121,7 +9121,7 @@
   {
     "id": 11781,
     "estateType": "Стан",
-    "posterName": "Фросина Петровиќ",
+    "posterName": "Фросина Петровиќ Стојмановска",
     "location": "Куманово",
     "size": 37,
     "startingPrice": 1821347,
@@ -9187,7 +9187,7 @@
   {
     "id": 11775,
     "estateType": "Земјиште",
-    "posterName": "Маја Гркова",
+    "posterName": "Маја Гркова Караколева",
     "location": "Велес",
     "size": 4556,
     "startingPrice": 0,
@@ -9286,7 +9286,7 @@
   {
     "id": 11766,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 47,
     "startingPrice": 0,
@@ -9385,7 +9385,7 @@
   {
     "id": 11756,
     "estateType": "Деловен простор",
-    "posterName": "Маја Гркова",
+    "posterName": "Маја Гркова Караколева",
     "location": "Гевгелија",
     "size": 290,
     "startingPrice": 2828920,
@@ -9638,7 +9638,7 @@
   {
     "id": 11733,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 46,
     "startingPrice": 0,
@@ -9748,7 +9748,7 @@
   {
     "id": 11722,
     "estateType": "Земјиште",
-    "posterName": "Павел Поп",
+    "posterName": "Павел Поп Иванов",
     "location": "Охрид",
     "size": 1057,
     "startingPrice": 4874122,
@@ -9869,7 +9869,7 @@
   {
     "id": 11711,
     "estateType": "Земјиште",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Радовиш",
     "size": 26910,
     "startingPrice": 16549658,
@@ -9902,7 +9902,7 @@
   {
     "id": 11708,
     "estateType": "Деловен простор",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Радовиш",
     "size": 720,
     "startingPrice": 20324822,
@@ -10166,7 +10166,7 @@
   {
     "id": 11681,
     "estateType": "Стан",
-    "posterName": "Фросина Петровиќ",
+    "posterName": "Фросина Петровиќ Стојмановска",
     "location": "Куманово",
     "size": 37,
     "startingPrice": 2732021,
@@ -10529,7 +10529,7 @@
   {
     "id": 11647,
     "estateType": "Земјиште",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Струмица",
     "size": 2251,
     "startingPrice": 337635,
@@ -10716,7 +10716,7 @@
   {
     "id": 11629,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 46,
     "startingPrice": 0,
@@ -10936,7 +10936,7 @@
   {
     "id": 11609,
     "estateType": "Деловен простор",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Радовиш",
     "size": 720,
     "startingPrice": 30487233,
@@ -10947,7 +10947,7 @@
   {
     "id": 11608,
     "estateType": "Земјиште",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Радовиш",
     "size": 26910,
     "startingPrice": 24824475,
@@ -10958,7 +10958,7 @@
   {
     "id": 11607,
     "estateType": "Гаража",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Струмица",
     "size": 17,
     "startingPrice": 88868,
@@ -11156,7 +11156,7 @@
   {
     "id": 11589,
     "estateType": "Земјиште",
-    "posterName": "Маријана Кацарска",
+    "posterName": "Маријана Кацарска Могилевска",
     "location": "Кочани",
     "size": 1256,
     "startingPrice": 141575,
@@ -11431,7 +11431,7 @@
   {
     "id": 11561,
     "estateType": "Деловен простор",
-    "posterName": "Павел Поп",
+    "posterName": "Павел Поп Иванов",
     "location": "Скопје",
     "size": 258,
     "startingPrice": 10153084,
@@ -11453,7 +11453,7 @@
   {
     "id": 11559,
     "estateType": "Стан",
-    "posterName": "Маја Гркова",
+    "posterName": "Маја Гркова Караколева",
     "location": "Куманово",
     "size": 65,
     "startingPrice": 0,
@@ -11981,7 +11981,7 @@
   {
     "id": 11506,
     "estateType": "Земјиште",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 954,
     "startingPrice": 0,
@@ -12036,7 +12036,7 @@
   {
     "id": 11501,
     "estateType": "Деловен простор",
-    "posterName": "Павел Поп",
+    "posterName": "Павел Поп Иванов",
     "location": "Скопје",
     "size": 236,
     "startingPrice": 24458802,
@@ -12311,7 +12311,7 @@
   {
     "id": 11473,
     "estateType": "Друго",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 13,
     "startingPrice": 0,
@@ -12487,7 +12487,7 @@
   {
     "id": 11456,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 44,
     "startingPrice": 0,
@@ -12498,7 +12498,7 @@
   {
     "id": 11455,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 44,
     "startingPrice": 0,
@@ -12531,7 +12531,7 @@
   {
     "id": 11451,
     "estateType": "Земјиште",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Струмица",
     "size": 2357,
     "startingPrice": 63639,
@@ -12553,7 +12553,7 @@
   {
     "id": 11449,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 122,
     "startingPrice": 0,
@@ -12630,7 +12630,7 @@
   {
     "id": 11441,
     "estateType": "Стан",
-    "posterName": "Фросина Петровиќ",
+    "posterName": "Фросина Петровиќ Стојмановска",
     "location": "Куманово",
     "size": 74,
     "startingPrice": 3317653,
@@ -13213,7 +13213,7 @@
   {
     "id": 11387,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 44,
     "startingPrice": 0,
@@ -13235,7 +13235,7 @@
   {
     "id": 11385,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 41,
     "startingPrice": 0,
@@ -13532,7 +13532,7 @@
   {
     "id": 11356,
     "estateType": "Земјиште",
-    "posterName": "Маријана Кацарска",
+    "posterName": "Маријана Кацарска Могилевска",
     "location": "Кочани",
     "size": 1889,
     "startingPrice": 141575,
@@ -13675,7 +13675,7 @@
   {
     "id": 11341,
     "estateType": "Деловен простор",
-    "posterName": "Павел Поп",
+    "posterName": "Павел Поп Иванов",
     "location": "Скопје",
     "size": 258,
     "startingPrice": 24458802,
@@ -14005,7 +14005,7 @@
   {
     "id": 11307,
     "estateType": "Стан",
-    "posterName": "Фросина Петровиќ",
+    "posterName": "Фросина Петровиќ Стојмановска",
     "location": "Куманово",
     "size": 74,
     "startingPrice": 4976480,
@@ -14027,7 +14027,7 @@
   {
     "id": 11305,
     "estateType": "Деловен простор",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Струмица",
     "size": 685,
     "startingPrice": 58798674,
@@ -14038,7 +14038,7 @@
   {
     "id": 11304,
     "estateType": "Земјиште",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Струмица",
     "size": 500,
     "startingPrice": 776475,
@@ -14269,7 +14269,7 @@
   {
     "id": 11282,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 66,
     "startingPrice": 0,
@@ -14368,7 +14368,7 @@
   {
     "id": 11273,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 122,
     "startingPrice": 0,
@@ -14687,7 +14687,7 @@
   {
     "id": 11243,
     "estateType": "Стан",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Струмица",
     "size": 99,
     "startingPrice": 6238621,
@@ -14720,7 +14720,7 @@
   {
     "id": 11240,
     "estateType": "Земјиште",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 230,
     "startingPrice": 0,
@@ -14830,7 +14830,7 @@
   {
     "id": 11228,
     "estateType": "Земјиште",
-    "posterName": "Маја Гркова",
+    "posterName": "Маја Гркова Караколева",
     "location": "Велес",
     "size": 2690,
     "startingPrice": 941500,
@@ -14973,7 +14973,7 @@
   {
     "id": 11213,
     "estateType": "Стан",
-    "posterName": "Маја Гркова",
+    "posterName": "Маја Гркова Караколева",
     "location": "Велес",
     "size": 101,
     "startingPrice": 0,
@@ -15105,7 +15105,7 @@
   {
     "id": 11201,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 59,
     "startingPrice": 0,
@@ -15116,7 +15116,7 @@
   {
     "id": 11200,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 52,
     "startingPrice": 0,
@@ -15171,7 +15171,7 @@
   {
     "id": 11195,
     "estateType": "Земјиште",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Скопје",
     "size": 18495,
     "startingPrice": 369900,
@@ -15182,7 +15182,7 @@
   {
     "id": 11194,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 51,
     "startingPrice": 0,
@@ -15193,7 +15193,7 @@
   {
     "id": 11193,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 66,
     "startingPrice": 0,
@@ -15215,7 +15215,7 @@
   {
     "id": 11191,
     "estateType": "Гаража",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Струмица",
     "size": 20,
     "startingPrice": 172414,
@@ -15457,7 +15457,7 @@
   {
     "id": 11168,
     "estateType": "Деловен простор",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 33,
     "startingPrice": 0,
@@ -15776,7 +15776,7 @@
   {
     "id": 11138,
     "estateType": "Земјиште",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 954,
     "startingPrice": 0,
@@ -15787,7 +15787,7 @@
   {
     "id": 11137,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 59,
     "startingPrice": 0,
@@ -15809,7 +15809,7 @@
   {
     "id": 11135,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 52,
     "startingPrice": 0,
@@ -15875,7 +15875,7 @@
   {
     "id": 11129,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 51,
     "startingPrice": 0,
@@ -15941,7 +15941,7 @@
   {
     "id": 11123,
     "estateType": "Стан",
-    "posterName": "Маја Гркова",
+    "posterName": "Маја Гркова Караколева",
     "location": "Велес",
     "size": 101,
     "startingPrice": 0,
@@ -15985,7 +15985,7 @@
   {
     "id": 11118,
     "estateType": "Гаража",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 13,
     "startingPrice": 0,
@@ -16612,7 +16612,7 @@
   {
     "id": 11051,
     "estateType": "Стан",
-    "posterName": "Драган Кочовски\n",
+    "posterName": "Драган Кочовски",
     "location": "Куманово",
     "size": 105,
     "startingPrice": 258151,
@@ -16755,7 +16755,7 @@
   {
     "id": 11036,
     "estateType": "Гаража",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 13,
     "startingPrice": 0,
@@ -16766,7 +16766,7 @@
   {
     "id": 11035,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 41,
     "startingPrice": 0,
@@ -16843,7 +16843,7 @@
   {
     "id": 11028,
     "estateType": "Земјиште",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 954,
     "startingPrice": 0,
@@ -17712,7 +17712,7 @@
   {
     "id": 10941,
     "estateType": "Стан",
-    "posterName": "Маја Гркова",
+    "posterName": "Маја Гркова Караколева",
     "location": "Велес",
     "size": 64,
     "startingPrice": 0,
@@ -17723,7 +17723,7 @@
   {
     "id": 10940,
     "estateType": "Друго",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 84,
     "startingPrice": 0,
@@ -18141,7 +18141,7 @@
   {
     "id": 10900,
     "estateType": "Стан",
-    "posterName": "Маја Гркова",
+    "posterName": "Маја Гркова Караколева",
     "location": "Велес",
     "size": 64,
     "startingPrice": 0,
@@ -18350,7 +18350,7 @@
   {
     "id": 10880,
     "estateType": "Гаража",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Струмица",
     "size": 17,
     "startingPrice": 146583,
@@ -18537,7 +18537,7 @@
   {
     "id": 10862,
     "estateType": "Земјиште",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 1219,
     "startingPrice": 0,
@@ -18559,7 +18559,7 @@
   {
     "id": 10860,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 39,
     "startingPrice": 0,
@@ -18680,7 +18680,7 @@
   {
     "id": 10848,
     "estateType": "Стан",
-    "posterName": "Маја Гркова",
+    "posterName": "Маја Гркова Караколева",
     "location": "Кавадарци",
     "size": 54,
     "startingPrice": 2805181,
@@ -18812,7 +18812,7 @@
   {
     "id": 10836,
     "estateType": "Деловен простор",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 33,
     "startingPrice": 0,
@@ -19076,7 +19076,7 @@
   {
     "id": 10811,
     "estateType": "Стан",
-    "posterName": "Маја Гркова",
+    "posterName": "Маја Гркова Караколева",
     "location": "Велес",
     "size": 64,
     "startingPrice": 0,
@@ -19373,7 +19373,7 @@
   {
     "id": 10783,
     "estateType": "Друго",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Струмица",
     "size": 20,
     "startingPrice": 258608,
@@ -19681,7 +19681,7 @@
   {
     "id": 10755,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 80,
     "startingPrice": 0,
@@ -21881,7 +21881,7 @@
   {
     "id": 10551,
     "estateType": "Земјиште",
-    "posterName": "Маријана Кацарска",
+    "posterName": "Маријана Кацарска Могилевска",
     "location": "Кочани",
     "size": 2801,
     "startingPrice": 314685,
@@ -21980,7 +21980,7 @@
   {
     "id": 10542,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 80,
     "startingPrice": 0,
@@ -21991,7 +21991,7 @@
   {
     "id": 10541,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Охрид",
     "size": 74,
     "startingPrice": 12546487,
@@ -22321,7 +22321,7 @@
   {
     "id": 10510,
     "estateType": "Земјиште",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Струмица",
     "size": 7418,
     "startingPrice": 296720,
@@ -22970,7 +22970,7 @@
   {
     "id": 10449,
     "estateType": "Стан",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Струмица",
     "size": 58,
     "startingPrice": 2040408,
@@ -23135,7 +23135,7 @@
   {
     "id": 10434,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 55,
     "startingPrice": 0,
@@ -23465,7 +23465,7 @@
   {
     "id": 10402,
     "estateType": "Земјиште",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Струмица",
     "size": 7418,
     "startingPrice": 296720,
@@ -23817,7 +23817,7 @@
   {
     "id": 10370,
     "estateType": "Друго",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 1219,
     "startingPrice": 0,
@@ -24015,7 +24015,7 @@
   {
     "id": 10352,
     "estateType": "Земјиште",
-    "posterName": "Валентина Спасова",
+    "posterName": "Валентина Спасова – Јованова",
     "location": "Штип",
     "size": 4582.06,
     "startingPrice": 13130605,
@@ -24488,7 +24488,7 @@
   {
     "id": 10306,
     "estateType": "Друго",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 902,
     "startingPrice": 12546487,
@@ -24719,7 +24719,7 @@
   {
     "id": 10284,
     "estateType": "Друго",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Струмица",
     "size": 1512,
     "startingPrice": 90720,
@@ -24730,7 +24730,7 @@
   {
     "id": 10283,
     "estateType": "Друго",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Струмица",
     "size": 1512,
     "startingPrice": 90720,
@@ -25005,7 +25005,7 @@
   {
     "id": 10258,
     "estateType": "Друго",
-    "posterName": "Валентина Спасова",
+    "posterName": "Валентина Спасова – Јованова",
     "location": "Струмица",
     "size": 4582,
     "startingPrice": 13130605,
@@ -25027,7 +25027,7 @@
   {
     "id": 10256,
     "estateType": "Деловен простор",
-    "posterName": "Маја Гркова",
+    "posterName": "Маја Гркова Караколева",
     "location": "Гевгелија",
     "size": 290,
     "startingPrice": 3120424,
@@ -25159,7 +25159,7 @@
   {
     "id": 10244,
     "estateType": "Стан",
-    "posterName": "Павел Поп",
+    "posterName": "Павел Поп Иванов",
     "location": "Скопје",
     "size": 92,
     "startingPrice": 2788333,
@@ -25236,7 +25236,7 @@
   {
     "id": 10237,
     "estateType": "Друго",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 1219,
     "startingPrice": 0,
@@ -25984,7 +25984,7 @@
   {
     "id": 10160,
     "estateType": "Друго",
-    "posterName": "Валентина Спасова",
+    "posterName": "Валентина Спасова – Јованова",
     "location": "Струмица",
     "size": 4582,
     "startingPrice": 18758007,
@@ -26182,7 +26182,7 @@
   {
     "id": 10142,
     "estateType": "Стан",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Струмица",
     "size": 99,
     "startingPrice": 6516294,
@@ -26314,7 +26314,7 @@
   {
     "id": 10130,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 41,
     "startingPrice": 0,
@@ -27249,7 +27249,7 @@
   {
     "id": 10039,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 41,
     "startingPrice": 0,
@@ -28855,7 +28855,7 @@
   {
     "id": 9883,
     "estateType": "Деловен простор",
-    "posterName": "Павел Поп",
+    "posterName": "Павел Поп Иванов",
     "location": "Скопје",
     "size": 86,
     "startingPrice": 23785330,
@@ -29526,7 +29526,7 @@
   {
     "id": 9817,
     "estateType": "Деловен простор",
-    "posterName": "Павел Поп",
+    "posterName": "Павел Поп Иванов",
     "location": "Скопје",
     "size": 86,
     "startingPrice": 23785330,
@@ -29625,7 +29625,7 @@
   {
     "id": 9805,
     "estateType": "Гаража",
-    "posterName": "Маја Гркова",
+    "posterName": "Маја Гркова Караколева",
     "location": "Велес",
     "size": 17,
     "startingPrice": 191361,
@@ -29735,7 +29735,7 @@
   {
     "id": 9791,
     "estateType": "Деловен простор",
-    "posterName": "Павел Поп",
+    "posterName": "Павел Поп Иванов",
     "location": "Скопје",
     "size": 86,
     "startingPrice": 23785330,
@@ -29922,7 +29922,7 @@
   {
     "id": 9765,
     "estateType": "Стан",
-    "posterName": "Александра Заринска",
+    "posterName": "Александра Заринска Дуровска",
     "location": "Скопје",
     "size": 79,
     "startingPrice": 0,
@@ -30703,7 +30703,7 @@
   {
     "id": 9655,
     "estateType": "Стан",
-    "posterName": "Павел Поп",
+    "posterName": "Павел Поп Иванов",
     "location": "Скопје",
     "size": 96,
     "startingPrice": 5879141,
@@ -30879,7 +30879,7 @@
   {
     "id": 9639,
     "estateType": "Земјиште",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Струмица",
     "size": 2422,
     "startingPrice": 1489530,
@@ -30890,7 +30890,7 @@
   {
     "id": 9638,
     "estateType": "Друго",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Струмица",
     "size": 2357,
     "startingPrice": 776475,
@@ -30901,7 +30901,7 @@
   {
     "id": 9637,
     "estateType": "Друго",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Крива",
     "size": 1566,
     "startingPrice": 804462,
@@ -31209,7 +31209,7 @@
   {
     "id": 9608,
     "estateType": "Деловен простор",
-    "posterName": "Маја Гркова",
+    "posterName": "Маја Гркова Караколева",
     "location": "Велес",
     "size": 1640,
     "startingPrice": 0,
@@ -31649,7 +31649,7 @@
   {
     "id": 9567,
     "estateType": "Стан",
-    "posterName": "Павел Поп",
+    "posterName": "Павел Поп Иванов",
     "location": "Скопје",
     "size": 96,
     "startingPrice": 6494141,
@@ -31682,7 +31682,7 @@
   {
     "id": 9564,
     "estateType": "Земјиште",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Струмица",
     "size": 2357,
     "startingPrice": 862750,
@@ -32254,7 +32254,7 @@
   {
     "id": 9512,
     "estateType": "Стан",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Струмица",
     "size": 71,
     "startingPrice": 2843514,
@@ -32936,7 +32936,7 @@
   {
     "id": 9448,
     "estateType": "Друго",
-    "posterName": "Павел Поп",
+    "posterName": "Павел Поп Иванов",
     "location": "Скопје",
     "size": 460,
     "startingPrice": 2788333,
@@ -33013,7 +33013,7 @@
   {
     "id": 9440,
     "estateType": "Куќа",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Струмица",
     "size": 195,
     "startingPrice": 3890182,
@@ -33585,7 +33585,7 @@
   {
     "id": 9386,
     "estateType": "Земјиште",
-    "posterName": "Драган Кочовски\n",
+    "posterName": "Драган Кочовски",
     "location": "Гевгелија",
     "size": 678,
     "startingPrice": 960630,
@@ -33684,7 +33684,7 @@
   {
     "id": 9377,
     "estateType": "Друго",
-    "posterName": "Санида ",
+    "posterName": "Санида",
     "location": "Тетово",
     "size": 245,
     "startingPrice": 0,
@@ -33926,7 +33926,7 @@
   {
     "id": 9355,
     "estateType": "Стан",
-    "posterName": "Санида ",
+    "posterName": "Санида",
     "location": "Тетово",
     "size": 69,
     "startingPrice": 0,
@@ -33959,7 +33959,7 @@
   {
     "id": 9352,
     "estateType": "Друго",
-    "posterName": "Павел Поп",
+    "posterName": "Павел Поп Иванов",
     "location": "Скопје",
     "size": 460,
     "startingPrice": 4182499,
@@ -33970,7 +33970,7 @@
   {
     "id": 9351,
     "estateType": "Земјиште",
-    "posterName": "Валентина Спасова",
+    "posterName": "Валентина Спасова – Јованова",
     "location": "Штип",
     "size": 14175,
     "startingPrice": 829747,
@@ -34025,7 +34025,7 @@
   {
     "id": 9345,
     "estateType": "Стан",
-    "posterName": "Санида ",
+    "posterName": "Санида",
     "location": "Тетово",
     "size": 69,
     "startingPrice": 0,
@@ -34135,7 +34135,7 @@
   {
     "id": 9335,
     "estateType": "Друго",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Гевгелија",
     "size": 2887,
     "startingPrice": 334417,
@@ -34311,7 +34311,7 @@
   {
     "id": 9318,
     "estateType": "Деловен простор",
-    "posterName": "Маја Гркова",
+    "posterName": "Маја Гркова Караколева",
     "location": "Гевгелија",
     "size": 290,
     "startingPrice": 3120424,
@@ -34421,7 +34421,7 @@
   {
     "id": 9308,
     "estateType": "Земјиште",
-    "posterName": "Маја Гркова",
+    "posterName": "Маја Гркова Караколева",
     "location": "Гевгелија",
     "size": 4363,
     "startingPrice": 109075,
@@ -34718,7 +34718,7 @@
   {
     "id": 9281,
     "estateType": "Друго",
-    "posterName": "Драган Кочовски\n",
+    "posterName": "Драган Кочовски",
     "location": "Велес",
     "size": 893,
     "startingPrice": 15291744,
@@ -34729,7 +34729,7 @@
   {
     "id": 9280,
     "estateType": "Земјиште",
-    "posterName": "Драган Кочовски\n",
+    "posterName": "Драган Кочовски",
     "location": "Гевгелија",
     "size": 678,
     "startingPrice": 960630,
@@ -35048,7 +35048,7 @@
   {
     "id": 9251,
     "estateType": "Друго",
-    "posterName": "Санида ",
+    "posterName": "Санида",
     "location": "Тетово",
     "size": 245,
     "startingPrice": 0,
@@ -35257,7 +35257,7 @@
   {
     "id": 9232,
     "estateType": "Стан",
-    "posterName": "Санида ",
+    "posterName": "Санида",
     "location": "Тетово",
     "size": 69,
     "startingPrice": 0,
@@ -35268,7 +35268,7 @@
   {
     "id": 9231,
     "estateType": "Деловен простор",
-    "posterName": "Маја Гркова",
+    "posterName": "Маја Гркова Караколева",
     "location": "Гевгелија",
     "size": 290,
     "startingPrice": 4680636,
@@ -35279,7 +35279,7 @@
   {
     "id": 9230,
     "estateType": "Друго",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Гевгелија",
     "size": 2887,
     "startingPrice": 993286,
@@ -35290,7 +35290,7 @@
   {
     "id": 9229,
     "estateType": "Деловен простор",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Струмица",
     "size": 136,
     "startingPrice": 4455733,
@@ -35620,7 +35620,7 @@
   {
     "id": 9197,
     "estateType": "Земјиште",
-    "posterName": "Драган Кочовски\n",
+    "posterName": "Драган Кочовски",
     "location": "Гевгелија",
     "size": 678,
     "startingPrice": 1440945,
@@ -35708,7 +35708,7 @@
   {
     "id": 9189,
     "estateType": "Друго",
-    "posterName": "Драган Кочовски\n",
+    "posterName": "Драган Кочовски",
     "location": "Велес",
     "size": 19691,
     "startingPrice": 22937615,
@@ -36082,7 +36082,7 @@
   {
     "id": 9155,
     "estateType": "Деловен простор",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Струмица",
     "size": 136,
     "startingPrice": 6683266,
@@ -36313,7 +36313,7 @@
   {
     "id": 9134,
     "estateType": "Друго",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Струмица",
     "size": 2281,
     "startingPrice": 65360426,
@@ -36852,7 +36852,7 @@
   {
     "id": 9085,
     "estateType": "Стан",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Струмица",
     "size": 335,
     "startingPrice": 15879531,
@@ -37699,7 +37699,7 @@
   {
     "id": 9006,
     "estateType": "Друго",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Струмица",
     "size": 224,
     "startingPrice": 6516294,
@@ -38634,7 +38634,7 @@
   {
     "id": 8913,
     "estateType": "Друго",
-    "posterName": "Данче Попчотрова",
+    "posterName": "Данче Попчотрова – Ѓеоргиева",
     "location": "Крива",
     "size": 1566,
     "startingPrice": 804462,
@@ -38755,7 +38755,7 @@
   {
     "id": 8902,
     "estateType": "Друго",
-    "posterName": "Магдалена Симовска",
+    "posterName": "Магдалена Симовска Давидовиќ",
     "location": "Скопје",
     "size": 7411,
     "startingPrice": 0,
@@ -38777,7 +38777,7 @@
   {
     "id": 8900,
     "estateType": "Куќа",
-    "posterName": "Магдалена Симовска",
+    "posterName": "Магдалена Симовска Давидовиќ",
     "location": "Скопје",
     "size": 192,
     "startingPrice": 6800000,
@@ -39173,7 +39173,7 @@
   {
     "id": 8863,
     "estateType": "Куќа",
-    "posterName": "Магдалена Симовска",
+    "posterName": "Магдалена Симовска Давидовиќ",
     "location": "Скопје",
     "size": 192,
     "startingPrice": 9547863,
@@ -39206,7 +39206,7 @@
   {
     "id": 8860,
     "estateType": "Стан",
-    "posterName": "Санида ",
+    "posterName": "Санида",
     "location": "Тетово",
     "size": 69,
     "startingPrice": 0,
@@ -39734,7 +39734,7 @@
   {
     "id": 8812,
     "estateType": "Земјиште",
-    "posterName": "Маја Гркова",
+    "posterName": "Маја Гркова Караколева",
     "location": "Гевгелија",
     "size": 4363,
     "startingPrice": 109075,
@@ -39767,7 +39767,7 @@
   {
     "id": 8809,
     "estateType": "Друго",
-    "posterName": "Маја Гркова",
+    "posterName": "Маја Гркова Караколева",
     "location": "Велес",
     "size": 320,
     "startingPrice": 0,

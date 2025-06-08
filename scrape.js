@@ -35,7 +35,7 @@ const scrapeAndTransform = async () => {
   const transformedRealEstatePostings = scrapedRealEstatePostings.map((posting, index) => ({
     id: Number(posting.id.split(" ")[4]),
     estateType: separateScrapeForEstateType[index].split("Тип на недвижност :")[1].split("Недвижноста")[0],
-    posterName: `${posting.posterName.split(" ")[1].slice(1)} ${posting.posterName.split(" ")[2]}`,
+    posterName: posting.posterName.split(":")[1]?.split("  ")[0]?.trim(),
     location: posting.location.split(" ")[4].replace(/\n$/, ""),
     size: Number(posting.sizeAndStartingPrice.split(" ")[1].split("м")[0]),
     startingPrice: Number(posting.sizeAndStartingPrice.split(" ")[7].replace(/,/g, "")),
