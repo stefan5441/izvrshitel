@@ -13,11 +13,9 @@ body {
   gap: 20px;
 }
 
-/* normal: #121212 */
-/* hover: #515151 */
+/* POSTINGCARD */
 .postingCard {
   background-color: #222222;
-  /* previously #ededed */
   border: none;
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
@@ -52,4 +50,68 @@ body {
 
 .postingMoreInfo {
   color: #93c5fd;
+}
+
+/* PAGINATION */
+.paginationContainer {
+  font-size: 18px;
+  width: 650px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.paginationLeftSide {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.paginationButton {
+  background-color: #222222;
+  border-radius: 12px;
+  color: #ededed;
+  width: 40px;
+  height: 40px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  cursor: pointer;
+}
+
+.paginationButton:hover {
+  background-color: #333333;
+  color: white;
+}
+
+.paginationRightSide {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.paginationSelect {
+  background-color: #222222;
+  color: #ededed;
+  border: none;
+  border-radius: 12px;
+  padding: 8px 12px;
+  font: inherit;
+  cursor: pointer;
+  height: 40px;
+  width: 80px;
+
+  /* arrow */
+  appearance: none; /* For most browsers */
+  -webkit-appearance: none; /* For Safari */
+  -moz-appearance: none; /* For Firefox */
+  background-image: url("data:image/svg+xml,%3Csvg fill='white' viewBox='0 0 24 24' width='16' height='16' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M7 10l5 5 5-5z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 12px center;
+  background-size: 16px 16px;
+}
+
+.paginationSelect:hover {
+  background-color: #333333;
+  color: white;
 }

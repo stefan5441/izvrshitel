@@ -8,14 +8,21 @@ function App() {
   const realEstatePostings = scrapedData as Posting[];
 
   const [itemsPerPage, setItemsPerPage] = useState<number>(10);
-  const [pageNumber, setPageNumber] = useState<number>(0);
+  const [currentPage, setCurrentPage] = useState<number>(1);
 
   return (
     <div className="mainContainer">
-      {realEstatePostings.slice(pageNumber * itemsPerPage, pageNumber * itemsPerPage + itemsPerPage).map((posting) => (
-        <PostingCard key={posting.id} realEstatePostings={posting} />
-      ))}
-      <Pagination setItemsPerPage={setItemsPerPage} setPageNumber={setPageNumber} />
+      {realEstatePostings
+        .slice((currentPage - 1) * itemsPerPage, (currentPage - 1) * itemsPerPage + itemsPerPage)
+        .map((posting) => (
+          <PostingCard key={posting.id} realEstatePostings={posting} />
+        ))}
+      <Pagination
+        setItemsPerPage={setItemsPerPage}
+        setCurrentPage={setCurrentPage}
+        currentPage={currentPage}
+        totalPages={Math.ceil(realEstatePostings.length / itemsPerPage)}
+      />
     </div>
   );
 }
