@@ -11,3 +11,14 @@ export type Posting = {
   note: string;
   moreInfoUrl: string;
 };
+
+export type Filter = {
+  posterName?: string;
+  dateFrom?: string;
+  dateTo?: string;
+  location?: string;
+  sizeFrom?: number;
+  sizeTo?: number;
+  startingPriceFrom?: number;
+  startingPriceTo?: number;
+};

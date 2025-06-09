@@ -30,7 +30,7 @@ export const Pagination = ({ setItemsPerPage, setCurrentPage, currentPage, total
             />
           </svg>
         </button>
-        <div>{`${currentPage} /   ${totalPages}`}</div>
+        <div>{`Страница ${currentPage} / ${totalPages}`}</div>
         <button
           className="paginationButton"
           onClick={() => setCurrentPage((prevPageNumber) => prevPageNumber + 1)}
@@ -48,7 +48,7 @@ export const Pagination = ({ setItemsPerPage, setCurrentPage, currentPage, total
           <option value="50">50</option>
           <option value="100">100</option>
         </select>
-        <label className="paginationSelectLabel">items per page</label>
+        <label className="paginationSelectLabel">огласи на страница</label>
       </div>
     </div>
   );
