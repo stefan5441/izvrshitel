@@ -2,11 +2,24 @@ body {
   background-color: #121212;
   color: #ededed;
   margin: 0;
-  height: 100vh;
   font-family: "Open Sans", sans-serif;
 }
 
-.wholePage {
+.wholePageContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-block: 40px;
+  gap: 20px;
+}
+
+.mainTitle {
+  color: #ededed;
+  width: 925px;
+  text-align: center;
+}
+
+.filtersAndPaginationContainer {
   display: flex;
   justify-content: center;
   gap: 25px;
@@ -223,4 +236,14 @@ body {
 
 .filterResetButton:hover {
   background-color: #4a4a4a;
+}
+
+.noResultsContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 650px;
+  border-radius: 12px;
+  background-color: #222222;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
 }

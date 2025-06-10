@@ -51,23 +51,26 @@ function App() {
   });
 
   return (
-    <div className="wholePage">
-      <Filters realEstatePostings={realEstatePostings} filters={filters} setFilters={setFilters} />
-      {filteredPostings.length > 0 ? (
-        <div className="mainContainer">
-          {filteredPostings.slice((currentPage - 1) * itemsPerPage, currentPage * itemsPerPage).map((posting) => (
-            <PostingCard key={posting.id} realEstatePostings={posting} />
-          ))}
-          <Pagination
-            setItemsPerPage={setItemsPerPage}
-            setCurrentPage={setCurrentPage}
-            currentPage={currentPage}
-            totalPages={Math.ceil(filteredPostings.length / itemsPerPage)}
-          />
-        </div>
-      ) : (
-        <div>Нема вакви</div>
-      )}
+    <div className="wholePageContainer">
+      <h1 className="mainTitle">Пребарувај огласи за аукција на недвижнини објавени од извршители!</h1>
+      <div className="filtersAndPaginationContainer">
+        <Filters realEstatePostings={realEstatePostings} filters={filters} setFilters={setFilters} />
+        {filteredPostings.length > 0 ? (
+          <div className="mainContainer">
+            {filteredPostings.slice((currentPage - 1) * itemsPerPage, currentPage * itemsPerPage).map((posting) => (
+              <PostingCard key={posting.id} realEstatePostings={posting} />
+            ))}
+            <Pagination
+              setItemsPerPage={setItemsPerPage}
+              setCurrentPage={setCurrentPage}
+              currentPage={currentPage}
+              totalPages={Math.ceil(filteredPostings.length / itemsPerPage)}
+            />
+          </div>
+        ) : (
+          <div className="noResultsContainer">Нема пронајдени резултати, обиди се повторно!</div>
+        )}
+      </div>
     </div>
   );
 }

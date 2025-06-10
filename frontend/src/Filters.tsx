@@ -12,6 +12,8 @@ export const Filters = ({ realEstatePostings, filters, setFilters }: Props) => {
     setFilters((prev) => ({ ...prev, [key]: value }));
   };
 
+  const allEstateTypes = ["Куќа", "Стан", "Деловен простор", "Гаража", "Земјиште", "Друго"];
+
   const { allPosters, allLocations } = useMemo(() => {
     const allPosters = Array.from(new Set(realEstatePostings.map((posting) => posting.posterName))).sort((a, b) =>
       a.localeCompare(b)
@@ -22,8 +24,6 @@ export const Filters = ({ realEstatePostings, filters, setFilters }: Props) => {
 
     return { allPosters, allLocations };
   }, [realEstatePostings]);
-
-  const allEstateTypes = ["Куќа", "Стан", "Деловен простор", "Гаража", "Земјиште", "Друго"];
 
   return (
     <div className="filterContainer">
