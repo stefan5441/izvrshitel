@@ -43,18 +43,28 @@ export const Filters = ({ realEstatePostings, filters, setFilters }: Props) => {
         </select>
       </div>
 
-      <div>
+      <div className="filterDateContainer">
         <label>Датум на продажба</label>
-        <input
-          type="date"
-          value={filters.dateFrom ?? ""}
-          onChange={(e) => setSpecificFilter("dateFrom", e.target.value || undefined)}
-        />
-        <input
-          type="date"
-          value={filters.dateTo ?? ""}
-          onChange={(e) => setSpecificFilter("dateTo", e.target.value || undefined)}
-        />
+        <div className="filterDateInnerContainer">
+          <div className="filterLabelAndDate">
+            <p>Од</p>
+            <input
+              className="filterDateInput"
+              type="date"
+              value={filters.dateFrom ?? ""}
+              onChange={(e) => setSpecificFilter("dateFrom", e.target.value || undefined)}
+            />
+          </div>
+          <div className="filterLabelAndDate">
+            <p>До</p>
+            <input
+              className="filterDateInput"
+              type="date"
+              value={filters.dateTo ?? ""}
+              onChange={(e) => setSpecificFilter("dateTo", e.target.value || undefined)}
+            />
+          </div>
+        </div>
       </div>
 
       <div className="filterDropdownContainer">
@@ -75,39 +85,63 @@ export const Filters = ({ realEstatePostings, filters, setFilters }: Props) => {
         </select>
       </div>
 
-      <div>
+      <div className="filterRangeContainer">
         <label>Квадратура</label>
-        <input
-          type="text"
-          placeholder="Од"
-          value={filters.sizeFrom ?? ""}
-          onChange={(e) => setSpecificFilter("sizeFrom", Number(e.target.value))}
-        />
-        <input
-          type="text"
-          placeholder="До"
-          value={filters.sizeTo ?? ""}
-          onChange={(e) => setSpecificFilter("sizeTo", Number(e.target.value))}
-        />
+        <div className="filterRangeInputs">
+          <input
+            className="filterRangeInput"
+            type="text"
+            placeholder="Од"
+            value={filters.sizeFrom ?? ""}
+            onChange={(e) => setSpecificFilter("sizeFrom", Number(e.target.value))}
+          />
+          <input
+            className="filterRangeInput"
+            type="text"
+            placeholder="До"
+            value={filters.sizeTo ?? ""}
+            onChange={(e) => setSpecificFilter("sizeTo", Number(e.target.value))}
+          />
+        </div>
       </div>
 
-      <div>
+      <div className="filterRangeContainer">
         <label>Почетна цена</label>
-        <input
-          type="text"
-          placeholder="Од"
-          value={filters.startingPriceFrom ?? ""}
-          onChange={(e) => setSpecificFilter("startingPriceFrom", Number(e.target.value))}
-        />
-        <input
-          type="text"
-          placeholder="До"
-          value={filters.startingPriceTo ?? ""}
-          onChange={(e) => setSpecificFilter("startingPriceTo", Number(e.target.value))}
-        />
+        <div className="filterRangeInputs">
+          <input
+            className="filterRangeInput"
+            type="text"
+            placeholder="Од"
+            value={filters.startingPriceFrom ?? ""}
+            onChange={(e) => setSpecificFilter("startingPriceFrom", Number(e.target.value))}
+          />
+          <input
+            className="filterRangeInput"
+            type="text"
+            placeholder="До"
+            value={filters.startingPriceTo ?? ""}
+            onChange={(e) => setSpecificFilter("startingPriceTo", Number(e.target.value))}
+          />
+        </div>
       </div>
 
-      <button>Reset</button>
+      <button
+        className="filterResetButton"
+        onClick={() =>
+          setFilters({
+            dateFrom: undefined,
+            dateTo: undefined,
+            location: undefined,
+            posterName: undefined,
+            sizeFrom: undefined,
+            sizeTo: undefined,
+            startingPriceFrom: undefined,
+            startingPriceTo: undefined,
+          })
+        }
+      >
+        Ресетирај филтри
+      </button>
     </div>
   );
 };
