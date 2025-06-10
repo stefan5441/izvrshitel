@@ -20,8 +20,6 @@ function App() {
     startingPriceTo: undefined,
   });
 
-  // test
-
   const [itemsPerPage, setItemsPerPage] = useState<number>(10);
   const [currentPage, setCurrentPage] = useState<number>(1);
 
