@@ -23,13 +23,12 @@ export const Filters = ({ realEstatePostings, filters, setFilters }: Props) => {
     return { allPosters, allLocations };
   }, [realEstatePostings]);
 
-  console.log(filters);
-
   return (
-    <div>
-      <div>
+    <div className="filterContainer">
+      <div className="filterDropdownContainer">
         <label>Извршител</label>
         <select
+          className="filterDropdown"
           value={filters.posterName ?? "Селектирај извршител"}
           onChange={(e) =>
             setSpecificFilter("posterName", e.target.value === "Селектирај извршител" ? undefined : e.target.value)
@@ -58,9 +57,10 @@ export const Filters = ({ realEstatePostings, filters, setFilters }: Props) => {
         />
       </div>
 
-      <div>
+      <div className="filterDropdownContainer">
         <label>Локација</label>
         <select
+          className="filterDropdown"
           value={filters.location ?? "Селектирај локација"}
           onChange={(e) =>
             setSpecificFilter("location", e.target.value === "Селектирај локација" ? undefined : e.target.value)
@@ -106,6 +106,8 @@ export const Filters = ({ realEstatePostings, filters, setFilters }: Props) => {
           onChange={(e) => setSpecificFilter("startingPriceTo", Number(e.target.value))}
         />
       </div>
+
+      <button>Reset</button>
     </div>
   );
 };

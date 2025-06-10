@@ -6,6 +6,12 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
+.wholePage {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+}
+
 .mainContainer {
   display: flex;
   flex-direction: column;
@@ -114,4 +120,45 @@ body {
 .paginationSelect:hover {
   background-color: #333333;
   color: white;
+}
+
+/* FILTER */
+.filterContainer {
+  background-color: #222222;
+  border: none;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  width: 200px;
+  padding: 20px 25px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-self: flex-start;
+}
+
+.filterDropdownContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.filterDropdown {
+  background-color: #ededed;
+  color: #222222;
+  border: none;
+  border-radius: 12px;
+  padding: 8px 28px 8px 12px;
+  font: inherit;
+  font-size: 14px;
+  cursor: pointer;
+  height: 35px;
+  width: 100%;
+
+  appearance: none; /* For most browsers */
+  -webkit-appearance: none; /* For Safari */
+  -moz-appearance: none; /* For Firefox */
+  background-image: url("data:image/svg+xml,%3Csvg fill='black' viewBox='0 0 24 24' width='16' height='16' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M7 10l5 5 5-5z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 12px center;
+  background-size: 16px 16px;
 }
