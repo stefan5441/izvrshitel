@@ -14,6 +14,7 @@ export type Posting = {
 
 export type Filter = {
   posterName?: string;
+  estateType?: string;
   dateFrom?: string;
   dateTo?: string;
   location?: string;

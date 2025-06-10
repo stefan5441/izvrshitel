@@ -9,6 +9,7 @@ function App() {
   const realEstatePostings = scrapedData as Posting[];
 
   const [filters, setFilters] = useState<Filter>({
+    estateType: undefined,
     dateFrom: undefined,
     dateTo: undefined,
     location: undefined,
@@ -23,9 +24,11 @@ function App() {
   const [currentPage, setCurrentPage] = useState<number>(1);
 
   const filteredPostings = realEstatePostings.filter((posting) => {
-    const { posterName, dateFrom, dateTo, location, sizeFrom, sizeTo, startingPriceFrom, startingPriceTo } = filters;
+    const { posterName, dateFrom, dateTo, location, sizeFrom, sizeTo, startingPriceFrom, startingPriceTo, estateType } =
+      filters;
 
     const matchesPosterName = !posterName || posting.posterName.toLowerCase().includes(posterName.toLowerCase());
+    const matchesEstateType = !estateType || posting.estateType.toLowerCase().includes(estateType.toLowerCase());
     const matchesLocation = !location || posting.location.toLowerCase().includes(location.toLowerCase());
     const matchesDateFrom = !dateFrom || new Date(posting.date) >= new Date(dateFrom);
     const matchesDateTo = !dateTo || new Date(posting.date) <= new Date(dateTo);
@@ -36,6 +39,7 @@ function App() {
 
     return (
       matchesPosterName &&
+      matchesEstateType &&
       matchesLocation &&
       matchesDateFrom &&
       matchesDateTo &&

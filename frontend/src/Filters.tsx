@@ -23,6 +23,8 @@ export const Filters = ({ realEstatePostings, filters, setFilters }: Props) => {
     return { allPosters, allLocations };
   }, [realEstatePostings]);
 
+  const allEstateTypes = ["Куќа", "Стан", "Деловен простор", "Гаража", "Земјиште", "Друго"];
+
   return (
     <div className="filterContainer">
       <div className="filterDropdownContainer">
@@ -38,6 +40,24 @@ export const Filters = ({ realEstatePostings, filters, setFilters }: Props) => {
           {allPosters.map((poster) => (
             <option value={poster} key={poster}>
               {poster}
+            </option>
+          ))}
+        </select>
+      </div>
+
+      <div className="filterDropdownContainer">
+        <label>Тип на недвижнина</label>
+        <select
+          className="filterDropdown"
+          value={filters.estateType ?? "Селектирај недвижнина"}
+          onChange={(e) =>
+            setSpecificFilter("estateType", e.target.value === "Селектирај недвижнина" ? undefined : e.target.value)
+          }
+        >
+          <option value={"Селектирај недвижнина"}>Селектирај недвижнина</option>
+          {allEstateTypes.map((estateType) => (
+            <option value={estateType} key={estateType}>
+              {estateType}
             </option>
           ))}
         </select>
@@ -130,6 +150,7 @@ export const Filters = ({ realEstatePostings, filters, setFilters }: Props) => {
         onClick={() =>
           setFilters({
             dateFrom: undefined,
+            estateType: undefined,
             dateTo: undefined,
             location: undefined,
             posterName: undefined,
