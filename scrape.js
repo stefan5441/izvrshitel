@@ -36,7 +36,7 @@ const scrapeAndTransform = async () => {
     id: Number(posting.id.split(" ")[4]),
     estateType: separateScrapeForEstateType[index].split("Тип на недвижност :")[1].split("Недвижноста")[0],
     posterName: posting.posterName.split(":")[1]?.split("  ")[0]?.trim(),
-    location: posting.location.split(" ")[4].replace(/\n$/, ""),
+    location: posting.location.split(":")[1]?.trim(),
     size: Number(posting.sizeAndStartingPrice.split(" ")[1].split("м")[0]),
     startingPrice: Number(posting.sizeAndStartingPrice.split(" ")[7].replace(/,/g, "")),
     date: posting.date.split(":")[1],
