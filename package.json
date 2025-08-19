@@ -5,9 +5,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "author": "Stefan Chambov",
+  "license": "MIT",
+  "description": "A modern web app that scrapes and displays real estate auction listings from North Macedonia's Chamber of Enforcement Agents with improved filtering and UI",
   "dependencies": {
     "cheerio": "^1.0.0",
     "fs": "^0.0.1-security"
