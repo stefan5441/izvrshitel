@@ -1,6 +1,6 @@
 # Izvrshitel
 
-A modern web application that provides an improved interface for browsing real estate auction listings from the Chamber of Enforcement Agents of North Macedonia.
+A modern web application that provides an improved interface for browsing real estate auction listings from the Chamber of Enforcement Agents of  Macedonia.
 
 ## 🌐 Live Demo
 
@@ -96,7 +96,7 @@ The application automatically updates its data daily through a GitHub Actions wo
 
 ## 📝 About Enforcement Agents
 
-Извршители (Enforcement Agents) are legal professionals in North Macedonia who handle the enforcement of court decisions, including the seizure and auction of real estate from individuals who owe money to banks or government institutions. This application makes it easier to browse and filter these auction listings.
+Извршители (Enforcement Agents) are legal professionals in  Macedonia who handle the enforcement of court decisions, including the seizure and auction of real estate from individuals who owe money to banks or government institutions. This application makes it easier to browse and filter these auction listings.
 
 ## 🤝 Contributing
 
