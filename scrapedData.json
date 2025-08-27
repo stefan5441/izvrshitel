@@ -1,5 +1,60 @@
 [
   {
+    "id": 12837,
+    "estateType": "Стан",
+    "posterName": "Гордан Станковиќ",
+    "location": "Скопје",
+    "size": 73,
+    "startingPrice": 7043276,
+    "date": "2025-09-25",
+    "note": "Продажбата ќе се одржи на ден 25.09.2025 година во 12",
+    "moreInfoUrl": "http://kirm.mk/?p=685"
+  },
+  {
+    "id": 12836,
+    "estateType": "Стан",
+    "posterName": "Чедомир Личковски",
+    "location": "Кичево",
+    "size": 110,
+    "startingPrice": 9500000,
+    "date": "2025-09-15",
+    "note": "Продажбата ќе се одржи на ден 15.09.2025 година во 10",
+    "moreInfoUrl": "https://kirm.mk/?page_id=5520"
+  },
+  {
+    "id": 12835,
+    "estateType": "Стан",
+    "posterName": "Никола Богатинов",
+    "location": "Скопје",
+    "size": 41,
+    "startingPrice": 3630562,
+    "date": "2025-09-16",
+    "note": "Продажбата ќе се одржи на ден 16.09.2025 година во 12",
+    "moreInfoUrl": "https://kirm.mk/?page_id=5520"
+  },
+  {
+    "id": 12834,
+    "estateType": "Земјиште",
+    "posterName": "Николчо Саздов",
+    "location": "Свети Николе",
+    "size": 8290,
+    "startingPrice": 24870,
+    "date": "2025-09-18",
+    "note": "Продажбата ќе се одржи на ден 18.09.2025 година во 11 часот  во просториите на извршител Николчо Саздов од Свети Николе ул. Васка Циклева бр.19",
+    "moreInfoUrl": "http://kirm.mk/?p=596"
+  },
+  {
+    "id": 12833,
+    "estateType": "Стан",
+    "posterName": "Ивана Нешовска",
+    "location": "Скопје",
+    "size": 117,
+    "startingPrice": 19516018,
+    "date": "2025-09-24",
+    "note": "Продажбата ќе се одржи на ден 24.09.2025 година во 13",
+    "moreInfoUrl": "http://kirm.mk/?p=5442"
+  },
+  {
     "id": 12832,
     "estateType": "Стан",
     "posterName": "Лазар Петровски",
