@@ -2,11 +2,11 @@
 
 A modern web application that provides an improved interface for browsing real estate auction listings from the Chamber of Enforcement Agents of  Macedonia.
 
-## Live Demo
+## 🌐 Live Demo
 
 Visit the application at: [izvrshitel.netlify.app](https://izvrshitel.netlify.app/)
 
-## Overview
+## 📋 Overview
 
 Izvrshitel scrapes and displays real estate auction data from [Комора на извршители на република македонија](https://kirm.mk/?page_id=1694). The original website has poor filtering capabilities and an outdated interface, so this project provides:
 
@@ -15,7 +15,7 @@ Izvrshitel scrapes and displays real estate auction data from [Комора на
 - **Automated updates** - Daily data scraping via GitHub Actions
 - **Enhanced usability** - Pagination and responsive design
 
-## Architecture
+## 🏗️ Architecture
 
 ### Data Collection
 
@@ -46,7 +46,7 @@ Izvrshitel scrapes and displays real estate auction data from [Комора на
         └── main.tsx         # Application entry point
 ```
 
-## Getting Started
+## 🚀 Getting Started
 
 ### Installation
 
@@ -86,7 +86,7 @@ The application automatically updates its data daily through a GitHub Actions wo
 3. Commits changes back to the repository
 4. Triggers Netlify deployment
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - **Scraping**: Cheerio.js
 - **Frontend**: React, TypeScript, Vite
@@ -94,10 +94,10 @@ The application automatically updates its data daily through a GitHub Actions wo
 - **Automation**: GitHub Actions
 - **Hosting**: Netlify
 
-## About Enforcement Agents
+## 📝 About Enforcement Agents
 
 Извршители (Enforcement Agents) are legal professionals in  Macedonia who handle the enforcement of court decisions, including the seizure and auction of real estate from individuals who owe money to banks or government institutions. This application makes it easier to browse and filter these auction listings.
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit issues, feature requests, or pull requests.
