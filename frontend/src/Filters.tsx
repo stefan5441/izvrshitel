@@ -5,11 +5,13 @@ type Props = {
   realEstatePostings: Posting[];
   filters: Filter;
   setFilters: React.Dispatch<React.SetStateAction<Filter>>;
+  setCurrentPage: React.Dispatch<React.SetStateAction<number>>;
 };
 
-export const Filters = ({ realEstatePostings, filters, setFilters }: Props) => {
+export const Filters = ({ realEstatePostings, filters, setFilters, setCurrentPage }: Props) => {
   const setSpecificFilter = <K extends keyof Filter>(key: K, value: Filter[K]) => {
     setFilters((prev) => ({ ...prev, [key]: value }));
+    setCurrentPage(1);
   };
 
   const allEstateTypes = ["Куќа", "Стан", "Деловен простор", "Гаража", "Земјиште", "Друго"];
@@ -147,7 +149,7 @@ export const Filters = ({ realEstatePostings, filters, setFilters }: Props) => {
 
       <button
         className="filterResetButton"
-        onClick={() =>
+        onClick={() => {
           setFilters({
             dateFrom: undefined,
             estateType: undefined,
@@ -158,8 +160,9 @@ export const Filters = ({ realEstatePostings, filters, setFilters }: Props) => {
             sizeTo: undefined,
             startingPriceFrom: undefined,
             startingPriceTo: undefined,
-          })
-        }
+          });
+          setCurrentPage(1);
+        }}
       >
         Ресетирај филтри
       </button>

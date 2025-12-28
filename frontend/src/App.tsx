@@ -54,7 +54,12 @@ function App() {
     <div className="wholePageContainer">
       <h1 className="mainTitle">Пребарувај огласи за аукција на недвижнини објавени од извршители!</h1>
       <div className="filtersAndPaginationContainer">
-        <Filters realEstatePostings={realEstatePostings} filters={filters} setFilters={setFilters} />
+        <Filters
+          realEstatePostings={realEstatePostings}
+          filters={filters}
+          setFilters={setFilters}
+          setCurrentPage={setCurrentPage}
+        />
         {filteredPostings.length > 0 ? (
           <div className="mainContainer">
             {filteredPostings.slice((currentPage - 1) * itemsPerPage, currentPage * itemsPerPage).map((posting) => (
