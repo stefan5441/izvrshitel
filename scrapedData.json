@@ -1,5 +1,16 @@
 [
   {
+    "id": 13291,
+    "estateType": "Земјиште",
+    "posterName": "Николче Диневски",
+    "location": "Ресен",
+    "size": 2033,
+    "startingPrice": 2000000,
+    "date": "2026-03-12",
+    "note": "- Овоштарник. Продажбата ќе се одржи на ден 12.03.2026 година во 11",
+    "moreInfoUrl": "https://kirm.mk/?page_id=5520"
+  },
+  {
     "id": 13290,
     "estateType": "Куќа",
     "posterName": "Каролина Таневска",
