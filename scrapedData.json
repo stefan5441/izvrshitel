@@ -1,5 +1,38 @@
 [
   {
+    "id": 13323,
+    "estateType": "Друго",
+    "posterName": "Наташа Катова",
+    "location": "Прилеп",
+    "size": 52,
+    "startingPrice": 1117707,
+    "date": "2026-04-01",
+    "note": "Продажбата ќе се одржи на ден 01.04.2026 година во 11,00 часот  во просториите  на Извршителот.",
+    "moreInfoUrl": "http://kirm.mk/?p=4806"
+  },
+  {
+    "id": 13321,
+    "estateType": "Деловен простор",
+    "posterName": "Васко Блажевски",
+    "location": "Скопје",
+    "size": 76,
+    "startingPrice": 0,
+    "date": "2026-03-27",
+    "note": "Продажбата ќе се одржи на ден 27.03.2026 година во 12",
+    "moreInfoUrl": "http://kirm.mk/?p=3527"
+  },
+  {
+    "id": 13320,
+    "estateType": "Деловен простор",
+    "posterName": "Дарко Топчов",
+    "location": "Скопје",
+    "size": 55,
+    "startingPrice": 0,
+    "date": "2026-03-27",
+    "note": "Продажбата ќе се одржи на ден 27.03.2026 година во 12",
+    "moreInfoUrl": "https://kirm.mk/?page_id=5520"
+  },
+  {
     "id": 13319,
     "estateType": "Земјиште",
     "posterName": "Благој Бањански",
