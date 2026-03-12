@@ -1,5 +1,38 @@
 [
   {
+    "id": 13326,
+    "estateType": "Куќа",
+    "posterName": "Гордана Џутеска",
+    "location": "Охрид",
+    "size": 55,
+    "startingPrice": 8299806,
+    "date": "2026-04-06",
+    "note": "имотен лист 95087 за КО Охрид 2 ,имотен лист 6093 за КО Охрид 2 ,имотен лист 187989 за КО Охрид 2 ,Продажбата ќе се одржи на ден 06.04.2026 година во 11.00 часот  во просториите на извршителот .",
+    "moreInfoUrl": "https://kirm.mk/?page_id=5520"
+  },
+  {
+    "id": 13325,
+    "estateType": "Куќа",
+    "posterName": "Весна Јакимовска",
+    "location": "Гостивар",
+    "size": 25,
+    "startingPrice": 230625,
+    "date": "2026-03-31",
+    "note": " имотен лист.бр. 78",
+    "moreInfoUrl": "https://kirm.mk/?page_id=5520"
+  },
+  {
+    "id": 13324,
+    "estateType": "Куќа",
+    "posterName": "Весна Јакимовска",
+    "location": "Гостивар",
+    "size": 25,
+    "startingPrice": 230625,
+    "date": "2026-03-31",
+    "note": " имотен лист.бр. 78",
+    "moreInfoUrl": "https://kirm.mk/?page_id=5520"
+  },
+  {
     "id": 13323,
     "estateType": "Друго",
     "posterName": "Наташа Катова",
