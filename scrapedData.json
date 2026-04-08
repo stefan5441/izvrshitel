@@ -1,5 +1,16 @@
 [
   {
+    "id": 13392,
+    "estateType": "Деловен простор",
+    "posterName": "Катерина Кокина",
+    "location": "Скопје",
+    "size": 1583,
+    "startingPrice": 25501813,
+    "date": "2026-04-26",
+    "note": "Имотен лист број",
+    "moreInfoUrl": "http://kirm.mk/?p=700"
+  },
+  {
     "id": 13391,
     "estateType": "Друго",
     "posterName": "Наташа Катова",
